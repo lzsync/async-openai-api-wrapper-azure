@@ -1,6 +1,7 @@
 # async-openai-api-wrapper-azure
 
 [![Azure Functions](https://img.shields.io/badge/Azure--Functions-Python-blue?logo=azure-functions)](https://learn.microsoft.com/en-us/azure/azure-functions/)
+![Powered by Azure OpenAI](https://img.shields.io/badge/Powered%20by-Azure%20OpenAI-blue?logo=microsoft-azure)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A lightweight, asynchronous API wrapper built with **Azure Functions (Python)** for interacting with the **Azure OpenAI Service**. This project exposes REST endpoints for **chat completions** and **embeddings**, using the official `openai` SDK and **Azure Active Directory (AAD)** authentication via `DefaultAzureCredential`.

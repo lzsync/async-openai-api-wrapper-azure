@@ -122,5 +122,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🙇 About
-
-This repo was created as a clean, minimal template to demonstrate how to build async Azure Functions that wrap Azure OpenAI endpoints. Feel free to fork or adapt it for your own projects!
+- ⚠️ Note: This repository is a base template and not immediately deployable as-is. To use it in production, you will need to configure your own CI/CD workflow (e.g., with GitHub Actions or Azure DevOps) and connect it to your Azure Function App.
+- This repo was created as a clean, minimal template to demonstrate how to build async Azure Functions that wrap Azure OpenAI endpoints. Feel free to fork or adapt it for your own projects!
+- _ReadMe created with the help of ChatGPT._
